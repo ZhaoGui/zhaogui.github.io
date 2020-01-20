@@ -37,7 +37,7 @@ jobs:
     - name: Build site
       run: |
         # 复用图片解析缓存
-        mkdir ./Maverick/cached_imgs
+        PUBLISH_BRANCH: master
         cp ./build_cache/sizeinfo.json ./Maverick/cached_imgs
         rm -rf ./build_cache/.git
 
