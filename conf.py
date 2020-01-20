@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -21,12 +21,12 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "北林有涧"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2020-01-20T16:51+08:00"
 author = "猎暄"
 email = "alan.gui@foxmail.com"
 author_homepage = "https://www.imalan.cn"
-description = "北林有涧风有时"
-key_words = ['Maverick', '猎暄', '北林', 'blog']
+description = "北林有涧，独寐寤歌。"
+key_words = ['Maverick', '猎暄', '北林有涧', 'blog']
 language = 'zh-CN'
 external_links = [
     {
