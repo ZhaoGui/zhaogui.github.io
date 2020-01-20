@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "zhaogui/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "zhaogui/zhaogui.github.io@master"
 }
 
 # 站点设置
@@ -24,20 +24,20 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2020-01-20T16:51+08:00"
 author = "猎暄"
 email = "alan.gui@foxmail.com"
-author_homepage = "https://www.imalan.cn"
+author_homepage = "http://zhaogui.applinzi.com/resume"
 description = "北林有涧，独寐寤歌。"
-key_words = ['Maverick', '猎暄', '北林有涧', 'blog']
+key_words = ['北林', '猎暄', '北林有涧', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
+        "name": "产品锦鲤",
+        "url": "http://zhaogui.applinzi.com/resume",
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "北林有涧",
+        "url": "https://zhuanlan.zhihu.com/beilin",
+        "brief": "知乎专栏"
     }
 ]
 nav = [
@@ -61,17 +61,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "",
         "icon": "gi gi-weibo"
     }
 ]
