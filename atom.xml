@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhaogui.github.io</id>
     <title>北林有涧</title>
-    <updated>2021-12-23T05:42:17.146Z</updated>
+    <updated>2021-12-23T07:45:23.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhaogui.github.io"/>
     <link rel="self" href="https://zhaogui.github.io/atom.xml"/>
-    <subtitle>北林有涧，寤寐独歌。</subtitle>
+    <subtitle>Lean Product Thinking</subtitle>
     <logo>https://zhaogui.github.io/images/avatar.png</logo>
     <icon>https://zhaogui.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 北林有涧</rights>
