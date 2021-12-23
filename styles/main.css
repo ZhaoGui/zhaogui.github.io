@@ -2071,7 +2071,7 @@ p > code {
       border-bottom-color: #333;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
-      background: #f1f3f5cc;
+      background: #ccccccbf;
     }h1, h2, h3, h4, h5, h6 {
       color: #333;
     }
@@ -2117,11 +2117,11 @@ p > code {
       }.nav-item a:hover {
         color: #333;
       }.nav-item-active {
-      background: #f8f9facc;
+      background: #f8f9fabf;
     }
 
     .nav-item:hover {
-      background: #f8f9facc;
+      background: #f8f9fabf;
       color: rgba(0, 0, 0, 0.98);
     }.site-author-image {
       border-radius: 50%;
@@ -2157,9 +2157,9 @@ p > code {
       color: #333;
       border-bottom-color: #333;
     }.reward-btn-text {
-        background-color: #fa5252cc !important;
+        background-color: #fa5252bf !important;
       }.bg-color {
-      background-color: #ffffffcc;
+      background-color: #ffffffbf;
     }
     .gemini .blog-header, .gemini .sidebar-wrapper, .gemini .article-wrapper, .gemini .post, .gemini .page, .gemini .section, .gemini .section-box, .gemini .sidebar-box, .gemini .friends-section {
       border-radius: 5px;
@@ -2182,21 +2182,21 @@ p > code {
       color: #333 !important;
     }
     .mist .site-title i {
-      background: #333333cc;
+      background: #333333bf;
     }.box-scale > #landlord {
       transform: scale(0.7);
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
-      cursor: url('/media/curs/默认选择.cur'), default;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/默认选择.cur'), default;
     }a {
-      cursor: url('/media/curs/链接选择.cur'), pointer !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/链接选择.cur'), pointer !important;
     }input, textarea, code {
-      cursor: url('/media/curs/文本选择.cur'), text !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/文本选择.cur'), text !important;
     }code > span.copy-code {
-      cursor: url('/media/curs/后台运行.cur'), text !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/后台运行.cur'), text !important;
     }.post img {
-      cursor: url('/media/curs/移动.cur'), zoom-in !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/移动.cur'), zoom-in !important;
     }.post img {
-      cursor: url('/media/curs/移动.cur'), zoom-out !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/移动.cur'), zoom-out !important;
     }
