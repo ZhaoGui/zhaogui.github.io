@@ -2061,6 +2061,16 @@ p > code {
         width: 960px;
         margin: 0 auto;
       }
+    @font-face {
+      font-family: 'SourceHanSerifCNRegular.ttf';
+      src: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/fonts/SourceHanSerifCNRegular.ttf.ttf');
+    }
+    * {
+        font-family: 'SourceHanSerifCNRegular.ttf';
+    }
+    .katex-block *{
+      font-family: 'KaTeX_Main';
+    }
     body {
       color: #333;
     }
@@ -2192,15 +2202,15 @@ p > code {
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
-      cursor: url('/media/curs/默认选择.cur'), default;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/默认选择.cur'), default;
     }a {
-      cursor: url('/media/curs/链接选择.cur'), pointer !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/链接选择.cur'), pointer !important;
     }input, textarea, code {
-      cursor: url('/media/curs/文本选择.cur'), text !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/文本选择.cur'), text !important;
     }code > span.copy-code {
-      cursor: url('/media/curs/后台运行.cur'), text !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/后台运行.cur'), text !important;
     }.post img {
-      cursor: url('/media/curs/移动.cur'), zoom-in !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/移动.cur'), zoom-in !important;
     }.post img {
-      cursor: url('/media/curs/移动.cur'), zoom-out !important;
+      cursor: url('https://cdn.jsdelivr.net/gh/ZhaoGui/zhaogui.github.io@master/media/curs/移动.cur'), zoom-out !important;
     }
