@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhaogui.github.io</id>
     <title>北林有涧</title>
-    <updated>2022-01-26T07:34:50.405Z</updated>
+    <updated>2022-01-26T08:05:42.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhaogui.github.io"/>
     <link rel="self" href="https://zhaogui.github.io/atom.xml"/>
@@ -11,35 +11,66 @@
     <icon>https://zhaogui.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 北林有涧</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[华西优选小程序]]></title>
         <id>https://zhaogui.github.io/hello-gridea/</id>
         <link href="https://zhaogui.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<h3 id="需求背景">需求背景</h3>
+<p>以公众号、视频号直播为媒介，打造一款由华西医生专家团队甄选价格实惠、质量过硬、体验上乘的健康好物精品电商小程序，吸引大健康消费者、医患群体、母婴消费者、健身人士进行消费</p>
+<h3 id="小程序特性">小程序特性</h3>
+<ul>
+<li>轻便：比App更轻便省流，满足用户低频需求，用完即走（走了还会回来）</li>
+<li>流畅：比H5更流畅稳定，体验感更好（微信生态内数据互通）</li>
+<li>路径短：通过社群分享、小程序码、微信搜索、公众号关联、视频号直播等多种方式进入，通过微信收藏、首页下拉等快捷方式轻松找到</li>
+</ul>
+<h3 id="体验地图">体验地图</h3>
+<figure data-type="image" tabindex="1"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6537e98c-1a60-4e38-b675-d6f7df2784ae/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h3 id="用户画像">用户画像</h3>
+<p><code>80/90后</code> <code>白领</code> <code>健康养生</code> <code>追求品质</code> <code>关注口碑</code></p>
+<h3 id="目标定位">目标定位</h3>
+<p><code>优质体验</code> <code>生活方式</code> <code>健康商店</code></p>
+<h3 id="行业模式参考">行业模式参考</h3>
+<ul>
+<li>网易严选：代工模式 ➡️ 自主设计和选品 ➡️ 开放平台自主报品</li>
+<li>茑屋书店：以图书搭配影音、咖啡、餐饮、文创营造多维度体验场景，选品精且多</li>
+<li>山姆会员商店：高品质高价格会员模式商店，给用户带来稀缺性及精神认同感</li>
+</ul>
+<h3 id="运营目标">运营目标</h3>
+<ul>
+<li>拉新：结合微信场景（社群、公众号、视频号）曝光引流精准触达，通过社交玩法裂变拉新</li>
+<li>留存：内容轻快扁平，缩短购物路径，以内容好逛留客</li>
+</ul>
+<h3 id="产品方向">产品方向</h3>
+<ul>
+<li>拉新期：曝光推广 + 社交玩法（利益刺激）+ 体现产品特色</li>
+<li>稳定期：拓展玩法 + 丰富场景（充实特色）+ 加强品牌调性</li>
+</ul>
+<h3 id="原型设计">原型设计</h3>
+<ol>
+<li>新客福利：用户首次进入小程序可获得新人优惠券，享受新人专享价</li>
+</ol>
+<figure data-type="image" tabindex="2"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41a271ef-c429-4ef9-bbe6-b8cf0898bc4f/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>分享拉新：好友助力+0元试用，刺激用户分享传播并提升活跃度</li>
+</ol>
+<figure data-type="image" tabindex="3"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54332a05-7b73-4400-9f17-751348302d79/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>连签奖励：通过连续签到与累计签到发放商品代金券及实物礼品，提升用户留存及购买率</li>
+</ol>
+<figure data-type="image" tabindex="4"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0f181a2-f571-4a02-b424-c2e33f4e5e60/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>好物种草：KOL产出内容，推荐好口碑商品，刺激用户购买</li>
+</ol>
+<figure data-type="image" tabindex="5"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41f628e1-d252-445e-a96b-788000299cdb/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>商品详情：体现商品特色及质检背书，搭配相关商品组合购买，提升客单价</li>
+</ol>
+<figure data-type="image" tabindex="6"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9c5f96e-03f3-4768-b556-8ea42a88ba8b/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>微信开票：对接微信财税服务实现小程序下单自动开票功能，减少财务工作量</li>
+</ol>
+<figure data-type="image" tabindex="7"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76b14579-8b88-4b03-a57b-a63034355d99/Untitled.png" alt="Untitled" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
