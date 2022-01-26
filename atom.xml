@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhaogui.github.io</id>
     <title>北林有涧</title>
-    <updated>2022-01-26T08:07:19.666Z</updated>
+    <updated>2022-01-26T08:34:20.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhaogui.github.io"/>
     <link rel="self" href="https://zhaogui.github.io/atom.xml"/>
@@ -12,10 +12,10 @@
     <rights>All rights reserved 2022, 北林有涧</rights>
     <entry>
         <title type="html"><![CDATA[华西优选小程序]]></title>
-        <id>https://zhaogui.github.io/hello-gridea/</id>
-        <link href="https://zhaogui.github.io/hello-gridea/">
+        <id>https://zhaogui.github.io/hxyx/</id>
+        <link href="https://zhaogui.github.io/hxyx/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2022-01-19T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="需求背景">需求背景</h3>
 <p>以公众号、视频号直播为媒介，打造一款由华西医生专家团队甄选价格实惠、质量过硬、体验上乘的健康好物精品电商小程序，吸引大健康消费者、医患群体、母婴消费者、健身人士进行消费</p>
 <h3 id="小程序特性">小程序特性</h3>
@@ -71,6 +71,558 @@
 <li>微信开票：对接微信财税服务实现小程序下单自动开票功能，减少财务工作量</li>
 </ol>
 <figure data-type="image" tabindex="7"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76b14579-8b88-4b03-a57b-a63034355d99/Untitled.png" alt="Untitled" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华西云学院]]></title>
+        <id>https://zhaogui.github.io/hxyxy/</id>
+        <link href="https://zhaogui.github.io/hxyxy/">
+        </link>
+        <updated>2021-12-23T08:19:36.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="项目背景">项目背景</h3>
+<p>医生是一个需要终身学习的职业，不断接受再教育，提升自身临床技能是成为一名好医生的必经之路，随着互联网技术的发展，医生的学习方式逐渐由单纯的线下学习（看书、参会）转向线上</p>
+<h3 id="数据模型">数据模型</h3>
+<figure data-type="image" tabindex="1"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/045e5678-6340-4810-af42-fd8c643d7f81/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h3 id="群体观察">群体观察</h3>
+<p>医学教育具备较高门槛、相对封闭和学科广泛等特点，针对不同级别、不同岗位医生需求侧重不同，医生群体脱岗学习机会较少，需要在碎片时间场景中学习<br>
+学习内容：分析病例、学习临床经验知识、参加医考科研相关技能培训、观看手术视频讲解、国内外会议报道和大牌专家采访<br>
+学习偏好：1200字内简短生动的图文消息，20分钟以内专家授课短视频<br>
+学习习惯：观看视频记录笔记，通过问答区互动交流</p>
+<h3 id="行业观察">行业观察</h3>
+<p>目前市面上在线教育平台内容专业度参差不齐，规范标准不一，灵活度不足</p>
+<ol>
+<li>以猿辅导为代表的K12网校：猿辅导打通小猿搜题、猿题库等产品建立学生行为数据库，分析学生易错题，针对具体问题特点，找到知识盲区，通过算法进行相关课程推荐与授课侧重点优化</li>
+<li>以网易云课堂为代表的职业培训平台：通过和机构合作、个人老师入驻等形式，向学习者提供点播和录播网络授课，打造观看视频-做课程笔记-答疑解惑-题库练习整套闭环体验
+<ul>
+<li>制定学习计划：帮助用户分解学习任务、确定学习目标，针对不同用户学习需求，推荐或由用户自己创建适合的学习内容和周期</li>
+<li>在线学习笔记：将课程学习时激发的想法或有用的知识碎片即时记录，添加笔记时自动保存视频当前时间点，回顾笔记时可定位到视频进度观看</li>
+<li>题库：题目类学习模块，与相应考试课程、学习计划结合，帮助学习者完成备考准备</li>
+<li>推广赚钱：邀请好友购买课程，团购、拼单推广课程赚取收益</li>
+</ul>
+</li>
+<li>以丁香公开课为代表的医学教育平台：以临床、科研、医考作为三大课程方向，通过测评-授课-解惑-督学打造科学学习路径，保障课程学习效果，使用电子结业证书与奖学金作为激励，增强学员学习动力
+<ul>
+<li>体系课程：由医学课程策划和专家参与教学编制，按照学习路径将课程打包为系列售卖</li>
+<li>科研会员：以购买/赠送形式获得科研会员卡，在有效期内无限制观看科研系列视频，享受包括文献检索、研究设计、写作投稿、基金申报在内的会员权益服务</li>
+<li>学习社区：从丁香播咖的直播订阅，到丁香人才的求职公开课，再到品牌E学院的人物专访和巅峰对话，丁香园通过构建双向沟通的学习社区，将专业讲师、业内高精人才、学员集中在一起，在共同探讨、相互促进的环境中交流学习心得，高效完成学习任务，培养医生良好的医学素养</li>
+</ul>
+</li>
+<li>以一席为代表的去电商化购课视频平台：依靠免费的剧场式现场演讲视频吸引用户付费购买精品课程（万象），可购买/赠送一席会员观看全部课程
+<ul>
+<li>去电商化：去除大量商业化元素，不直接展示会员价格、课程金额等</li>
+<li>视频文稿：视频内容文字化，可通过阅读文稿完整了解视频全部内容</li>
+<li>简约：着重强调视频内容及交流互动，弱化讲师、课程路线、订单流程等</li>
+</ul>
+</li>
+<li>主打在线音频课程的得到：在完成线上知识服务的同时开展线下业务如得到大学、跨年演讲、知识春晚，后期采用得到企业服务为组织全员提供在线学习解决方案</li>
+<li>医学工具腾讯医典：功能大而全，在提供视频直播的同时更多地是作为医学工具查询疾病、药品、报告解读等</li>
+<li>主打医生学术社交的医联：通过文章形式进行医学视频线上传播</li>
+<li>主打考试刷题的考虫：全面科学的课后测试，通过刷历年真题库总结错题、难题进行针对性专项练习，能根据错题本输出知识盲区攻克进度</li>
+<li>被动学习（政治任务）化的中国干部网络学院：使用学习卡以班级为单位进行集中线上学习，通过考核后会获得具有效应的电子证书，学习及考核成绩会作为评优评先的关键数据参考</li>
+</ol>
+<h3 id="核心功能">核心功能</h3>
+<ol>
+<li>职业发展规划：技能知识图谱、课程学习地图</li>
+<li>国际机构线上系列课程：专业、前沿、高端医学课程</li>
+<li>医学教育认证：通过考试测评颁发结业证书、发放学分</li>
+<li>定制化课程：根据个人或单位需要定制化课程系列包</li>
+<li>笔记分享及回答：课件、笔记、学习记录、学习数据、考核成绩</li>
+<li>同行交流：医生兴趣圈（归属与认同感，比学习行为更高一层的意义即与他人产生联系）</li>
+<li>积分奖品奖励：学习激励、考核奖励</li>
+<li>邀请返佣：制定推广分成计划，提升用户参与积极性</li>
+<li>免费试播：课程片段精彩集锦</li>
+<li>复购与转化：老用户通过返现返券刺激再次消费，新用户简化流程、使用营销手段提升转化率</li>
+</ol>
+<h3 id="原型设计">原型设计</h3>
+<ol>
+<li>登录/注册：使用手机验证码或微信网页授权登录</li>
+</ol>
+<figure data-type="image" tabindex="2"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8bce303-db10-49e5-9679-26ff83779593/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>首页：依次展示banner、金刚区导航、直播课、录播课、套餐课</li>
+</ol>
+<figure data-type="image" tabindex="3"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d80cc59-278d-47c9-ab3b-beab7af17e3e/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>搜索：包含热搜榜、搜索历史、搜索结果展示</li>
+</ol>
+<figure data-type="image" tabindex="4"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be983ceb-cda7-44de-b3f3-4611cf47decb/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>名医风采：包含老师列表、老师个人简介、老师在授课程</li>
+</ol>
+<figure data-type="image" tabindex="5"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cdd3344-e367-40d8-9a65-9f1979402d96/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>直播间：包含直播播放器（主K/宣传片、推流画面、回放视频）、计时器、课程基本信息、售价、主讲人、直播大纲、讨论、相关课程</li>
+</ol>
+<figure data-type="image" tabindex="6"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/953a9a4a-c50f-40a6-ba09-648200ac2b50/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>课程详情：包含播放器（课程海报、免费试播）、课程基本信息、售价、主讲人、相关课程、课程目录、课程评价、操作按钮</li>
+</ol>
+<figure data-type="image" tabindex="7"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3684c705-72ae-4268-8c2c-7eebe6fe06b4/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>学习页：包含弹窗广告、视频播放器、课程详情入口、相关课程、课程目录、讨论、考核入口、撰写评价</li>
+</ol>
+<figure data-type="image" tabindex="8"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff2fc5d3-e0e4-4dbe-8dd9-496af18f364a/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>考试：包含倒计时、题干、选项、考试报告、答案解析</li>
+</ol>
+<figure data-type="image" tabindex="9"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97c4e6ad-8882-4520-9712-5571c109b74c/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>华西会员：未开通显示会员权益、价格、专享好课，开通后显示有效期、续费价</li>
+</ol>
+<figure data-type="image" tabindex="10"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8e920ef-096c-46a2-a87a-17246923c7e0/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>我的订单：包含课程订单、会员订单、会议订单，订单状态前端显示已支付与未支付</li>
+</ol>
+<figure data-type="image" tabindex="11"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08bfd89d-4f6c-4d02-a65a-7f086762f8b4/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>学习数据：包含过去七天与全部学习时长排行</li>
+</ol>
+<figure data-type="image" tabindex="12"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8deb096a-a692-458d-9358-693583e3ec6b/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>课程兑换：后台批量生成学习码，输入后完成兑换，同时学习码失效</li>
+</ol>
+<figure data-type="image" tabindex="13"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9fc0e68-e7b9-4bb5-92a2-a1ed5a135824/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>邀请好友：包含邀请介绍、邀请奖励、邀请海报、邀请记录、专属注册链接</li>
+</ol>
+<figure data-type="image" tabindex="14"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71fc92c1-4517-478d-9e3e-f93eb484c5e8/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>我的收益：包含学费余额、收益记录、推荐分享课程</li>
+</ol>
+<figure data-type="image" tabindex="15"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c08779e0-da48-4dd6-aee3-5ffe0f53d3e5/Untitled.png" alt="Untitled" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="项目背景">项目背景</h3>
+<p>医生是一个需要终身学习的职业，不断接受再教育，提升自身临床技能是成为一名好医生的必经之路，随着互联网技术的发展，医生的学习方式逐渐由单纯的线下学习（看书、参会）转向线上</p>
+<h3 id="数据模型">数据模型</h3>
+<figure data-type="image" tabindex="1"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/045e5678-6340-4810-af42-fd8c643d7f81/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h3 id="群体观察">群体观察</h3>
+<p>医学教育具备较高门槛、相对封闭和学科广泛等特点，针对不同级别、不同岗位医生需求侧重不同，医生群体脱岗学习机会较少，需要在碎片时间场景中学习<br>
+学习内容：分析病例、学习临床经验知识、参加医考科研相关技能培训、观看手术视频讲解、国内外会议报道和大牌专家采访<br>
+学习偏好：1200字内简短生动的图文消息，20分钟以内专家授课短视频<br>
+学习习惯：观看视频记录笔记，通过问答区互动交流</p>
+<h3 id="行业观察">行业观察</h3>
+<p>目前市面上在线教育平台内容专业度参差不齐，规范标准不一，灵活度不足</p>
+<ol>
+<li>以猿辅导为代表的K12网校：猿辅导打通小猿搜题、猿题库等产品建立学生行为数据库，分析学生易错题，针对具体问题特点，找到知识盲区，通过算法进行相关课程推荐与授课侧重点优化</li>
+<li>以网易云课堂为代表的职业培训平台：通过和机构合作、个人老师入驻等形式，向学习者提供点播和录播网络授课，打造观看视频-做课程笔记-答疑解惑-题库练习整套闭环体验
+<ul>
+<li>制定学习计划：帮助用户分解学习任务、确定学习目标，针对不同用户学习需求，推荐或由用户自己创建适合的学习内容和周期</li>
+<li>在线学习笔记：将课程学习时激发的想法或有用的知识碎片即时记录，添加笔记时自动保存视频当前时间点，回顾笔记时可定位到视频进度观看</li>
+<li>题库：题目类学习模块，与相应考试课程、学习计划结合，帮助学习者完成备考准备</li>
+<li>推广赚钱：邀请好友购买课程，团购、拼单推广课程赚取收益</li>
+</ul>
+</li>
+<li>以丁香公开课为代表的医学教育平台：以临床、科研、医考作为三大课程方向，通过测评-授课-解惑-督学打造科学学习路径，保障课程学习效果，使用电子结业证书与奖学金作为激励，增强学员学习动力
+<ul>
+<li>体系课程：由医学课程策划和专家参与教学编制，按照学习路径将课程打包为系列售卖</li>
+<li>科研会员：以购买/赠送形式获得科研会员卡，在有效期内无限制观看科研系列视频，享受包括文献检索、研究设计、写作投稿、基金申报在内的会员权益服务</li>
+<li>学习社区：从丁香播咖的直播订阅，到丁香人才的求职公开课，再到品牌E学院的人物专访和巅峰对话，丁香园通过构建双向沟通的学习社区，将专业讲师、业内高精人才、学员集中在一起，在共同探讨、相互促进的环境中交流学习心得，高效完成学习任务，培养医生良好的医学素养</li>
+</ul>
+</li>
+<li>以一席为代表的去电商化购课视频平台：依靠免费的剧场式现场演讲视频吸引用户付费购买精品课程（万象），可购买/赠送一席会员观看全部课程
+<ul>
+<li>去电商化：去除大量商业化元素，不直接展示会员价格、课程金额等</li>
+<li>视频文稿：视频内容文字化，可通过阅读文稿完整了解视频全部内容</li>
+<li>简约：着重强调视频内容及交流互动，弱化讲师、课程路线、订单流程等</li>
+</ul>
+</li>
+<li>主打在线音频课程的得到：在完成线上知识服务的同时开展线下业务如得到大学、跨年演讲、知识春晚，后期采用得到企业服务为组织全员提供在线学习解决方案</li>
+<li>医学工具腾讯医典：功能大而全，在提供视频直播的同时更多地是作为医学工具查询疾病、药品、报告解读等</li>
+<li>主打医生学术社交的医联：通过文章形式进行医学视频线上传播</li>
+<li>主打考试刷题的考虫：全面科学的课后测试，通过刷历年真题库总结错题、难题进行针对性专项练习，能根据错题本输出知识盲区攻克进度</li>
+<li>被动学习（政治任务）化的中国干部网络学院：使用学习卡以班级为单位进行集中线上学习，通过考核后会获得具有效应的电子证书，学习及考核成绩会作为评优评先的关键数据参考</li>
+</ol>
+<h3 id="核心功能">核心功能</h3>
+<ol>
+<li>职业发展规划：技能知识图谱、课程学习地图</li>
+<li>国际机构线上系列课程：专业、前沿、高端医学课程</li>
+<li>医学教育认证：通过考试测评颁发结业证书、发放学分</li>
+<li>定制化课程：根据个人或单位需要定制化课程系列包</li>
+<li>笔记分享及回答：课件、笔记、学习记录、学习数据、考核成绩</li>
+<li>同行交流：医生兴趣圈（归属与认同感，比学习行为更高一层的意义即与他人产生联系）</li>
+<li>积分奖品奖励：学习激励、考核奖励</li>
+<li>邀请返佣：制定推广分成计划，提升用户参与积极性</li>
+<li>免费试播：课程片段精彩集锦</li>
+<li>复购与转化：老用户通过返现返券刺激再次消费，新用户简化流程、使用营销手段提升转化率</li>
+</ol>
+<h3 id="原型设计">原型设计</h3>
+<ol>
+<li>登录/注册：使用手机验证码或微信网页授权登录</li>
+</ol>
+<figure data-type="image" tabindex="2"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8bce303-db10-49e5-9679-26ff83779593/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>首页：依次展示banner、金刚区导航、直播课、录播课、套餐课</li>
+</ol>
+<figure data-type="image" tabindex="3"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d80cc59-278d-47c9-ab3b-beab7af17e3e/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>搜索：包含热搜榜、搜索历史、搜索结果展示</li>
+</ol>
+<figure data-type="image" tabindex="4"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be983ceb-cda7-44de-b3f3-4611cf47decb/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>名医风采：包含老师列表、老师个人简介、老师在授课程</li>
+</ol>
+<figure data-type="image" tabindex="5"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cdd3344-e367-40d8-9a65-9f1979402d96/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>直播间：包含直播播放器（主K/宣传片、推流画面、回放视频）、计时器、课程基本信息、售价、主讲人、直播大纲、讨论、相关课程</li>
+</ol>
+<figure data-type="image" tabindex="6"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/953a9a4a-c50f-40a6-ba09-648200ac2b50/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>课程详情：包含播放器（课程海报、免费试播）、课程基本信息、售价、主讲人、相关课程、课程目录、课程评价、操作按钮</li>
+</ol>
+<figure data-type="image" tabindex="7"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3684c705-72ae-4268-8c2c-7eebe6fe06b4/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>学习页：包含弹窗广告、视频播放器、课程详情入口、相关课程、课程目录、讨论、考核入口、撰写评价</li>
+</ol>
+<figure data-type="image" tabindex="8"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff2fc5d3-e0e4-4dbe-8dd9-496af18f364a/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>考试：包含倒计时、题干、选项、考试报告、答案解析</li>
+</ol>
+<figure data-type="image" tabindex="9"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97c4e6ad-8882-4520-9712-5571c109b74c/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>华西会员：未开通显示会员权益、价格、专享好课，开通后显示有效期、续费价</li>
+</ol>
+<figure data-type="image" tabindex="10"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8e920ef-096c-46a2-a87a-17246923c7e0/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>我的订单：包含课程订单、会员订单、会议订单，订单状态前端显示已支付与未支付</li>
+</ol>
+<figure data-type="image" tabindex="11"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/08bfd89d-4f6c-4d02-a65a-7f086762f8b4/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>学习数据：包含过去七天与全部学习时长排行</li>
+</ol>
+<figure data-type="image" tabindex="12"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8deb096a-a692-458d-9358-693583e3ec6b/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>课程兑换：后台批量生成学习码，输入后完成兑换，同时学习码失效</li>
+</ol>
+<figure data-type="image" tabindex="13"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9fc0e68-e7b9-4bb5-92a2-a1ed5a135824/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>邀请好友：包含邀请介绍、邀请奖励、邀请海报、邀请记录、专属注册链接</li>
+</ol>
+<figure data-type="image" tabindex="14"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71fc92c1-4517-478d-9e3e-f93eb484c5e8/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>我的收益：包含学费余额、收益记录、推荐分享课程</li>
+</ol>
+<figure data-type="image" tabindex="15"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c08779e0-da48-4dd6-aee3-5ffe0f53d3e5/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SCIMEA会员中心]]></title>
+        <id>https://zhaogui.github.io/scimea/</id>
+        <link href="https://zhaogui.github.io/scimea/">
+        </link>
+        <updated>2021-10-06T08:22:29.000Z</updated>
+        <content type="html"><![CDATA[<p>SCIMEA会员小程序以四川省国际医学交流促进会协会会员池为基础，建立专家智库关系网，开设医疗企业横向课题、多中心课题管理，收集专家项目进行成果转化、新兴技术展示，为后期打通线下会议、劳务发放、成果转化、对外交流、人际关系做准备</p>
+<h3 id="表格字段">表格字段</h3>
+<figure data-type="image" tabindex="1"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42d5ca97-2287-4bb0-a63b-88a8389704e9/%E4%B8%9A%E5%8A%A1%E8%A1%A8-%E6%96%B0.jpg" alt="业务表-新.jpg" loading="lazy"></figure>
+<h3 id="业务流程">业务流程</h3>
+<figure data-type="image" tabindex="2"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cbeba11-6e0d-4d47-8b11-cc9841da7d46/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h3 id="原型设计">原型设计</h3>
+<ol>
+<li>首页：会员注册入口、关联产品聚合、海绵会议数据引流</li>
+</ol>
+<figure data-type="image" tabindex="3"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b38d4657-d1c3-4281-98a5-485db47dc6a1/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>会员权益：包含权益封面、公告、权益卡片及详情</li>
+</ol>
+<figure data-type="image" tabindex="4"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3a57670-42a5-4011-a64b-99297456dc4a/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>会员周报：调用微信官方API获取图文素材列表</li>
+</ol>
+<figure data-type="image" tabindex="5"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7c6d465-4887-44b7-bdde-c88d7fb92c87/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>我的：不同状态及逻辑</li>
+</ol>
+<figure data-type="image" tabindex="6"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca898cae-95b3-4d2c-bfbe-eec849793dea/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>会员档案：所在专委会、会员资料</li>
+</ol>
+<figure data-type="image" tabindex="7"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4219e325-d3d3-4cf5-ab8e-2623307c814f/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>消息盒子：小程序同步推送支付成功通知、审核结果通知、会员到期提醒</li>
+</ol>
+<figure data-type="image" tabindex="8"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ab04a79-5c64-4665-be3b-fbd5ca103d00/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>客服中心：使用微信官方客服消息组件</li>
+</ol>
+<figure data-type="image" tabindex="9"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6eb0de7e-d96a-4669-b8f0-8a6244275465/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>扫一扫：使用微信官方扫一扫接口</li>
+</ol>
+<figure data-type="image" tabindex="10"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/58993f58-bfc7-4979-bdc2-d37f296f3fa4/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>会员卡：使用微信官方会员卡组件</li>
+</ol>
+<figure data-type="image" tabindex="11"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ecf2746-afcc-4ce8-b36f-cce3641f7096/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>添加证件照：使用微信官方上传图片接口</li>
+</ol>
+<figure data-type="image" tabindex="12"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae0b58c3-37d9-4dc8-80a5-c21071fec424/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>资料填写：分步骤填写注册所需资料</li>
+</ol>
+<figure data-type="image" tabindex="13"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c6222dc-40ca-4a99-9ae5-32abf4d53bb8/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>订阅消息：使用微信官方订阅消息接口</li>
+</ol>
+<figure data-type="image" tabindex="14"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9030c75b-00c0-4e71-852c-b613924fabf6/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>微信支付：申请接入微信支付后使用接口发起微信支付</li>
+</ol>
+<figure data-type="image" tabindex="15"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe9f98a0-fe9f-4e70-9326-3a9fef83d0c6/Untitled.png" alt="Untitled" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华西医生健康报告]]></title>
+        <id>https://zhaogui.github.io/jkbg/</id>
+        <link href="https://zhaogui.github.io/jkbg/">
+        </link>
+        <updated>2021-09-01T08:23:58.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="项目背景">项目<strong>背景</strong></h3>
+<p>华西医生公众号两周年粉丝回馈，提炼用户关注数据和个性内容输出健康报告，聚合粉丝在公众号上的成就及行为，为完整阅读报告的用户提供盲盒模式抽奖回馈，提升用户活跃度的同时作为品牌价值观宣传的有力方式，能有效渗透品牌好感，维系粉丝情感关怀</p>
+<h3 id="目标定位"><strong>目标定位</strong></h3>
+<p>华西医生健康报告承载了用户在华西医生公众号中的成就行为，起到提升品牌形象、阐述平台优势、共建情感纽带的作用</p>
+<h3 id="驱动因素"><strong>驱动因素</strong></h3>
+<p>外部驱动：社群推广、文章曝光、直播触达、分享裂变</p>
+<p>内部驱动：内容触达、情感共鸣、价值认同</p>
+<h3 id="数据接口">数据接口</h3>
+<p>基础信息、关注时间戳、累计关注时长、图文消息总数、总用户数、总阅读数、其他人工统计数据</p>
+<h3 id="用户分层">用户分层</h3>
+<ul>
+<li>高价值粉丝 ：在华西医生有多样化数据沉淀，关注时间久、互动次数多，人物画像完整</li>
+<li>普通粉丝：数据较为平淡，关注时间不长、互动次数少，对平台忠诚度不足</li>
+<li>未关注用户 ：无个性化数据，仅展示共性数据</li>
+</ul>
+<h3 id="原型设计">原型设计</h3>
+<ol>
+<li>首页：通过scope=snsapi_userinfo网页授权获取用户基础信息，再次进入静默授权可直接回顾报告或领取礼包</li>
+</ol>
+<figure data-type="image" tabindex="1"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/273e88b9-3e1c-44f2-9e5f-fab83a92fb01/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>报告页：开启报告后播放全局音乐，音乐图标同步旋转（可点击暂停）</li>
+</ol>
+<figure data-type="image" tabindex="2"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87c52f5f-afa6-48eb-9685-f7a1e37ca606/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fb8f975-af1e-41c2-948d-6c437b308640/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb92443c-3303-4655-b290-9d68b985392c/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ffb1573-ee9f-44c2-b695-00a4d05a0137/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6259408a-546b-46f3-a87b-bb36e5df1926/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>未关注用户：第1、2屏用户个性化数据替换为热点文章链接，结束后引导用户关注华西医生</li>
+</ol>
+<figure data-type="image" tabindex="7"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4eab2d4a-efb4-49c0-b2e7-1add4726904a/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>抽奖页：Canvas绘制九宫格（设置奖品出现概率）抽奖，H5分享采用引导点击右上角操作</li>
+</ol>
+<figure data-type="image" tabindex="8"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90494b88-a5be-4eda-bbe8-47c4d8bf1f56/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>中奖闭环：实物奖品填写收货地址，虚拟奖品发放带参二维码</li>
+</ol>
+<figure data-type="image" tabindex="9"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e35e0e4-2455-42e8-9b82-9cfcc1bf1a10/Untitled.png" alt="Untitled" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海绵会议]]></title>
+        <id>https://zhaogui.github.io/hmhy/</id>
+        <link href="https://zhaogui.github.io/hmhy/">
+        </link>
+        <updated>2021-07-29T08:25:25.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="需求背景">需求背景</h3>
+<p>2020年1月春节期间新冠疫情爆发，2月开始线下活动、沙龙、展会全面取消，各类学术会议开始由线下转为线上，海绵会议承载了疫情期间数百场医学相关学术会议直播交流活动，以低成本线上会议方式满足医生教学、研讨、学分需求</p>
+<h3 id="会议形式">会议形式</h3>
+<ol>
+<li>PPT教学：典型成功病案分享、知识点教学</li>
+<li>嘉宾访谈：最新医疗行业趋势和政策指南解读</li>
+<li>线下活动直播：临床、科研场景的最新解决方案和实践</li>
+</ol>
+<h3 id="核心要素">核心要素</h3>
+<ol>
+<li>内容：会议主题和分享内容</li>
+<li>嘉宾：大会主席、主持人、讲师、领域KOL</li>
+<li>渠道：医院内部、医药企业、外部合作方、裂变/推荐机制</li>
+<li>转化：讲师完成教学目的，院方完成学术研讨，参会者完成学分领取，药企传递产品价值</li>
+</ol>
+<h3 id="产品结构">产品结构</h3>
+<figure data-type="image" tabindex="1"><img src="https://axure-file.lanhuapp.com/4bf2b78f-4eb8-468d-8e4b-113a9ab069c2__afa81731b9777ab8f497353b023434f8.jpg" alt="https://axure-file.lanhuapp.com/4bf2b78f-4eb8-468d-8e4b-113a9ab069c2__afa81731b9777ab8f497353b023434f8.jpg" loading="lazy"></figure>
+<h3 id="原型设计">原型设计</h3>
+<ol>
+<li>小程序帐号登录规范规则：提供选择专委会后登录与直接进入首页体验后登录两条路径</li>
+</ol>
+<figure data-type="image" tabindex="2"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a567180-4729-4d45-9539-d502c08ddfe8/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7d74d21-425f-437f-9b5e-fc4373ab6c0f/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>首页：月历式会议卡片，以系统时间为基准，依次显示已开始、筹备中、已结束会议</li>
+</ol>
+<figure data-type="image" tabindex="4"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ebb6bfa-45d1-4c03-9e82-766591f975ee/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>参会指南：视频指导标准化参会</li>
+</ol>
+<figure data-type="image" tabindex="5"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ed3933f-c73c-4d3c-9d21-a014114e7850/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>会议详情：可在直播间观看、互动、记笔记，背景色根据会议主题色渐变</li>
+</ol>
+<figure data-type="image" tabindex="6"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/766d43a1-7061-473b-8b58-418650127486/Untitled.png" alt="Untitled" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[医湾空间点单小程序]]></title>
+        <id>https://zhaogui.github.io/dd/</id>
+        <link href="https://zhaogui.github.io/dd/">
+        </link>
+        <updated>2021-04-06T08:26:15.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="项目要求">项目要求</h3>
+<ol>
+<li>**降本增效：**未来多店模式下可均摊降低研发成本，使用同一系统减少店员学习成本，提升运营效率，且无第三方抽成费用</li>
+<li>**数据沉淀：**自主研发可沉淀大量数据，便于精细化运营（如根据用户标签进行资源合理分配，提升优惠券使用率，大数据杀熟等）</li>
+<li>**业务串联：**以公众号为载体，打通公司数据产品，实现用户注册后在所有数据产品上信息互通</li>
+<li>**需求定制：**可根据实际业务定制化开发特殊功能，避免采购产品同质化问题</li>
+<li>**用户触达：**小程序可将社群、商城等产品做融合打包，并以门店为入口为公众号线上及线下做前置引流</li>
+</ol>
+<h3 id="项目痛点">项目痛点</h3>
+<ol>
+<li>高峰期等位
+<ul>
+<li>提供概念模型：小程序排号实时提醒</li>
+<li>使等待看起来合理：文案说明等待不可避免且有原因</li>
+<li>满足或者超越期待：根据排号人数及商品制作时长预估等待时间</li>
+<li>让用户保持忙碌：线下小游戏与点单攻略（小料搭配、低脂套餐）</li>
+<li>公平：现场扫码排号，先下单先制作</li>
+<li>积极反馈：给排队超过10分钟的顾客赠送优惠券</li>
+</ul>
+</li>
+<li>点单
+<ul>
+<li>数据引导：显示商品销量、价格、制作时长、好评率等帮助用户做下单决策</li>
+<li>口味标签：根据用户以往下单情况生成口味标签，与商品标签匹配后推荐</li>
+<li>桌面点单：每桌固定点单二维码，下单后默认将商品送至对应桌号</li>
+<li>今天点什么：随机推荐商品及相关点单攻略</li>
+</ul>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小程序技术相关]]></title>
+        <id>https://zhaogui.github.io/xcx/</id>
+        <link href="https://zhaogui.github.io/xcx/">
+        </link>
+        <updated>2021-02-02T08:28:45.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="登录与用户信息接口"><strong>登录与用户信息接口</strong></h3>
+<p><code>login</code> 静默获取用户身份标识符</p>
+<p><code>getUserInfo</code> 获取匿名的用户个人信息</p>
+<p><code>getUserProfile</code> 获取用户头像、昵称、性别及地区信息</p>
+<p><code>&lt;open-data&gt;</code> 在界面中展示用户头像昵称信息，无需用户确认</p>
+<h3 id="登录流程时序图">登录流程时序图</h3>
+<figure data-type="image" tabindex="1"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a47859cd-ecb7-43db-945f-c498fec5f13a/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<h3 id="h5跳转小程序">H5跳转小程序</h3>
+<p>开放标签（<code>wx-open-launch-weapp</code>）</p>
+<h3 id="微信外短信-邮件打开小程序">微信外（短信、邮件）打开小程序</h3>
+<ol>
+<li><code>URL Schema</code>（需要自行开发中转H5页面）</li>
+<li><code>URL Link</code>（官方提供公共跳转页用于请求用户授权打开）</li>
+<li>云开发静态网站（<code>cloudbase.sendSms</code>）</li>
+</ol>
+<h3 id="不登录获取手机号">不登录获取手机号</h3>
+<p><code>&lt;button open-type=&quot;getPhoneNumber&quot; bindgetphonenumber=&quot;getPhoneNumber&quot;&gt;&lt;/button&gt;</code></p>
+<h3 id="外链第三方网站">外链第三方网站</h3>
+<p>配置小程序业务域名（域名经过ICP备案后向网站服务器上传校验文件）</p>
+<p><code>web-view</code> 打开业务域名，网页内 iframe 的域名也需要配置到域名白名单</p>
+<h3 id="openid-和-unionid"><strong>OpenID 和 UnionID</strong></h3>
+<p><code>OpenID</code> 是一个用户对于一个小程序、公众号的标识，开发者可通过这个标识识别用户</p>
+<p><code>UnionID</code> 是同一个微信开放平台账号下移动应用、网站应用、公众号、小程序用户的唯一标识，可通过 <code>UnionID</code> ****实现数据互通</p>
+<h3 id="小程序支付">小程序支付</h3>
+<ol>
+<li>直接接入微信支付</li>
+<li>关联其他微信商户号</li>
+</ol>
+<h3 id="关注公众号">关注公众号</h3>
+<ol>
+<li>使用官方公众号关注组件<code>official-account</code> ，部分场景有效</li>
+<li>引导用户保存公众号二维码图片，在微信长按识别关注</li>
+<li><code>web-view</code> 内打开公众号文章关注</li>
+<li>进入客服会话页面，点击右下角卡片，发送公众号二维码图片，提示长按识别关注（<code>customerServiceMessage.send</code>）</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信红包封面]]></title>
+        <id>https://zhaogui.github.io/hbfm/</id>
+        <link href="https://zhaogui.github.io/hbfm/">
+        </link>
+        <updated>2021-01-01T08:27:40.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41af1b07-7a60-4688-86be-fc291758458a/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6910a36a-e773-4802-add4-ea1504e52a82/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<p>每到过年期间，微信红包封面总会在社交网络上火一阵子，大有与阿里集五福、京东炸年兽争锋之意，越来越多的企业、品牌开始关注微信红包封面，好看、有趣、有创意的红包封面会给企业、品牌带来正向宣发价值</p>
+<p>微信红包封面是微信支付团队继表情红包、拜年红包后的又一创新尝试，利用红包封面故事传递企业品牌文化，并且可为公众号、视频号、小程序引流</p>
+<p>红包封面按个数收费（1元/个），商家对封面进行限量发放（通常伴随如下载注册、浏览关注、下单购买等任务），在激发用户领取欲望对同时实现商家促销目的，用户会产生抢到就赚到、可以不用但不能没有的心理</p>
+<h3 id="红包封面的价值"><strong>红包封面的价值</strong></h3>
+<ol>
+<li>**社交影响力：**红包封面自带社交影响与话题讨论，通过情绪状态、想法、行动、言语带动社交行为产生，驱使更多用户参与领取红包封面</li>
+<li>**损失厌恶：**红包封面发放有效期为6个月，领取后使用有效期为3个月，超过有效期后封面自动失效，可以根据特定的时间节点发放，比如年底至春节是企业慰问员工、亲朋好友相互拜年的高峰期，通过有效期设置增加红包封面曝光和转化效果</li>
+<li>**流量互导：**商家通过封面领取任务（关注公众号、订阅视频号、小程序签到抽奖）实现流量互导及曝光转化，加速微信生态流量运转，帮助商家实现营销闭环</li>
+<li>**培养习惯：**用户通过搜一搜品牌专区领取，培养用户搜索习惯，促进平台及产品功能活跃</li>
+<li>**二次传播：**通过任务门槛筛选高质量用户，便于二次传播裂变拉新</li>
+</ol>
+<h3 id="封面发放方式">封面发放方式</h3>
+<ol>
+<li>领取二维码：用户通过扫码领取红包封面，可用于线下场景</li>
+<li>领取序列号：用户打开发红包，进入红包封面输入序列号领取</li>
+<li>领取链接：用户通过小程序（wx.showRedPackage）、公众号文章、H5链接点击领取</li>
+<li>小程序鉴权接口发放：redpacketcover.getAuthenticationUrl</li>
+<li>用户白名单：上传OpenID文件，指定发放给白名单用户</li>
+</ol>
+<h3 id="封面故事形式">封面故事形式</h3>
+<p>红包详情页下拉时完整展示，用于讲述品牌、团队、封面创作背后的故事，让品牌文化更好地传递</p>
+<ol>
+<li>静态图片（PNG/JPG/JEPG）</li>
+<li>视频（MP4）</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乳腺科普大赛]]></title>
+        <id>https://zhaogui.github.io/rxkp/</id>
+        <link href="https://zhaogui.github.io/rxkp/">
+        </link>
+        <updated>2020-11-18T08:30:03.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="需求背景">需求背景</h3>
+<p>四川省首届乳腺健康科普大赛采用网络投票方式宣传推广活动，参赛者为自己的投稿作品拉票分享，提升活动影响力及作品曝光量</p>
+<h3 id="原型设计">原型设计</h3>
+<ol>
+<li>投票页：包含活动基本介绍、投票时间及规则、作品搜索、作品展示</li>
+</ol>
+<figure data-type="image" tabindex="1"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24cc9f9c-250f-4653-80a0-adc366d8eb12/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>作品页：包含作品类别、排名、票数、作品详情、作者相关信息、分享海报</li>
+</ol>
+<figure data-type="image" tabindex="2"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24fbbce2-239e-43f7-a71c-70fd7a599019/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>排行页：包含所有作品总票数、总作品数、总分享数，按得票数对作品排名</li>
+</ol>
+<figure data-type="image" tabindex="3"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63506700-7f7d-45df-9f71-71353e20b149/Untitled.png" alt="Untitled" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[医疗健康双转服务平台]]></title>
+        <id>https://zhaogui.github.io/yljk/</id>
+        <link href="https://zhaogui.github.io/yljk/">
+        </link>
+        <updated>2020-10-06T08:31:40.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="需求背景">需求背景</h3>
+<p>以全球视野推动医疗健康领域科技成果价值转化并建立全球医疗创新服务平台，通过专业化项目评估，多样化孵化运营，广泛投资对接，实现前沿科技价值转化、项目价值提升，架设技术和市场之间的桥梁</p>
+<p>根据技术、成果、专利需求帮助技术需求方与来自国内外医疗健康领域创新企业、技术持有者、科研团队进行对接、匹配，找到最适合的解决方案</p>
+<p>协助技术发布方系统性发布技术成果信息，使技术成果项目与企业及投资人的配对更加高效与精准，加速技术成果的商业转化</p>
+<h3 id="原型设计">原型设计</h3>
+<ol>
+<li>技术成果</li>
+</ol>
+<figure data-type="image" tabindex="1"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1cb34537-2c0e-4d83-bb77-3cbe80b02b15/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>技术需求</li>
+</ol>
+<figure data-type="image" tabindex="2"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3652cf74-0cf6-4350-bd0f-f33da73924e5/Untitled.png" alt="Untitled" loading="lazy"></figure>
+<ol>
+<li>服务案例</li>
+</ol>
+<figure data-type="image" tabindex="3"><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cb33e7f-3ae1-4c7e-89c8-4dc2a73c0696/Untitled.png" alt="Untitled" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
